@@ -6,7 +6,9 @@ public class Calculadora {
 		return a + b;
 	}
 	public static int resta(int a, int b){
+		System.out.println("hola");
 		return a - b;
+		
 	}
 }
 
